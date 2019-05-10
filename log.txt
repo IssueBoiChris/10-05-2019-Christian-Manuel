@@ -1,0 +1,103 @@
+commit 16cfc9484f6498bdf37e772141b230627bda12f3
+Merge: 9f51e63 804a750
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:37:19 2019 +0200
+
+    Fusione ramo Home
+
+commit 804a750db5157f934a2de28cee40e6a470f8e4fe
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:34:22 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..0a4cfdb 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+\ No newline at end of file
+
+commit 9f51e637d14e6a38eb66a7f2e87ee480c9c50c18
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:33:06 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..5aa6925 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-colot:red;}
+\ No newline at end of file
+
+commit 9251c3c0238c2dc09fec2f66e278517030a0fc0d
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:31:09 2019 +0200
+
+    Inserita immagine per la pagine Home
+
+diff --git a/img/Logo_Caso-193021.jpg b/img/Logo_Caso-193021.jpg
+new file mode 100644
+index 0000000..714096d
+Binary files /dev/null and b/img/Logo_Caso-193021.jpg differ
+
+commit 869104c6a2c51a1babe8b08cf5e44c24d0136e3e
+Merge: 780d5ea 4757fff
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:23:06 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 4757fff72a959b28702b7731b3e7e4aad3031ef7
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:22:25 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 5ffd065a87b08ad2b240a58e3bf1e21af3a33cec
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:21:39 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 376e44d6cf04e52ba191c6317cfccfc33af18522
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:20:47 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/920cf37c-bb9f-4af9-a2a8-78632bf58a4d.jpg b/img/920cf37c-bb9f-4af9-a2a8-78632bf58a4d.jpg
+new file mode 100644
+index 0000000..d945906
+Binary files /dev/null and b/img/920cf37c-bb9f-4af9-a2a8-78632bf58a4d.jpg differ
+
+commit 780d5eaf3cc8851782cddb7ff8a3cb85e7160f1d
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:19:59 2019 +0200
+
+    Creata pagine Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 84174ee78792ebbdf522c683ba5cf9821ba5c35b
+Author: Christian <studente.manuel.christian@gmail.com>
+Date:   Fri May 10 11:18:04 2019 +0200
+
+    Prima commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
